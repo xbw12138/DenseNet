@@ -11,6 +11,8 @@ pip install sklearn
 
 ## Datasets
 
+Directory
+
 * Photos
     * Train
         * Class-1
